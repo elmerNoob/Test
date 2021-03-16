@@ -1,1 +1,1 @@
-This is an another test file for git.
+Then there will be another testFile named testFile number 2.
